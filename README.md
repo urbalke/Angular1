@@ -1,2 +1,2 @@
 # Angular1
-Learning Angular
+In here Ill upload Angular courses Ive completed. Nothing fancy.
